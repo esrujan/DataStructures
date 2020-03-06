@@ -1,5 +1,6 @@
 #include "linkedlist.h"
 
+// This is Linked List implementation
 template <typename T>        
 Node<T>* LinkedList<T>::getHead() {
      return head;
